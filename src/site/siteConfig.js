@@ -19,10 +19,10 @@ export const siteConfig = {
   defaultTourSrc: 'tours/demo/tour.json',
 
   // Odkaz „späť na hlavnú stránku" (prázdne/null = tlačidlo sa nezobrazí):
-  mainSiteUrl: 'https://hodzova.sk/',
+  mainSiteUrl: 'https://google.sk/',
 
   brand: {
-    name: 'Rezidencia Hodžova',
+    name: 'Interaktívna prehliadka',
     logo: 'landing/logo.svg', // negatív (biele) logo do tmavej hlavičky
   },
 
