@@ -48,8 +48,8 @@ export const siteConfig = {
 
   // Hero: text nad sliderom, pod sliderom a tlačidlo na spustenie prehliadky.
   hero: {
-    textAbove: 'Rezidencia Hodžova',
-    textBelow: 'Prezrite si byt v interaktívnej 360° prehliadke.',
+    textAbove: '360° Prehliadka',
+    textBelow: '',
     buttonLabel: '360° Prehliadka',
     buttonImage: '', // napr. 'landing/cta.jpg' — obrázkové pozadie tlačidla (banner)
     buttonTourSrc: 'tours/demo/tour.json',
